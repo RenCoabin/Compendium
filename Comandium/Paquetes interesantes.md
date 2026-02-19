@@ -1,0 +1,14 @@
+- obsidian
+- firefox
+- thunderbird
+- python
+- python-pip
+- code (yay visual-studio-code-bin)
+- openssh
+- neovim
+- fastfetch
+- btop
+- docker
+- docker-compose
+- kvm (`qemu-kvm`, `libvirt-daemon-system`, `libvirt-clients`, `virt-manager`.)
+- mailutils (servidor de correo)
