@@ -4,20 +4,20 @@ Docker es un programa que permite ejecutar aplicaciones, como un ubuntu server m
 - ¿Cómo funciona?
 Docker puede arrancar sistemas operativos mínimos (como si fuese una Raspberry Pi). Ejemplo:
 <hr>
-?Para descargar la imagen:
-docker pull ubuntu:22.04 
+`?Para descargar la imagen:
+`docker pull ubuntu:22.04 
 
-?Arrancar servicio previamente con systemctl start/enable docker
+`?Arrancar servicio previamente con systemctl start/enable docker
 <hr>
 *En consola.*
 - Para usar Docker sin *sudo*, añade tu usuario al grupo **docker**.
 
 Después
 <hr>
-docker run -it --name (nombre) ubuntu:22.04
+`docker run -it --name (nombre) ubuntu:22.04
 
-?"-it" modo interactivo con terminal
-?"ubuntu:22.04" imagen a usar
+`?"-it" modo interactivo con terminal
+`?"ubuntu:22.04" imagen a usar
 <hr>
 *En consola.*
 

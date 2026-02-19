@@ -8,7 +8,6 @@
 - neovim
 - fastfetch
 - btop
-- htop (como alternativa a btop)
 - docker
 - docker-compose
 - kvm (`qemu-kvm`, `libvirt-daemon-system`, `libvirt-clients`, `virt-manager`.)

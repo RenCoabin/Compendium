@@ -4,9 +4,9 @@ Yay es un comando para gestionar, descargar e instalar paquetes de este reposito
 
 - **Método de instalación**:
 <hr>
-  53  2026-02-18 12:05:46 git clone https://aur.archlinux.org/yay.git  
-  54  2026-02-18 12:05:50 cd yay  
-  55  2026-02-18 12:05:58 makepkg -si
+  `53  2026-02-18 12:05:46 git clone https://aur.archlinux.org/yay.git  
+  `54  2026-02-18 12:05:50 cd yay  
+  `55  2026-02-18 12:05:58 makepkg -si
   <hr>
   *En consola.*
 
@@ -18,6 +18,6 @@ Yay es un comando para gestionar, descargar e instalar paquetes de este reposito
 
 - **Actualizar repositorios**:
 <hr>
-ratking@blacklabel ~ → yay
+`ratking@blacklabel ~ → yay
 <hr>
 *En consola.*
