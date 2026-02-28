@@ -3,7 +3,7 @@
 Lo común es tener un relay de correo, para que sea la unica maquina que puede enviar correos.
 
 - ¿Cómo monto un servidor de correo?
-	**Se necesita el paquete postfix**.
+	**Se necesita el paquete postfix y mailutils**.
 El primer paso es 
 - SE CONFIGURA EL SERVIDOR COMO SATELLYTE SYSTEM
 - SE CONFIGURA EL FICHERO /ETC/POSTFIX/MAIN.CF
