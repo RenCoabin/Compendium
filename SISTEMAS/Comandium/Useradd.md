@@ -6,8 +6,6 @@
 	*nombre:x:UID:GIDcampo_de_GECOS:directorio_home:shell*
 #### **!!!Para omitir tener que llenar el campo GECOS, se recomienda utilizar la opción `--gecos ""`. 
 
---gecos ""
-
 - **EJEMPLO:**
 <hr>
 `useradd -m -s /bin/bash -aG grupo --gecos "" usuario
