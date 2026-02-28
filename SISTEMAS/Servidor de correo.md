@@ -4,7 +4,7 @@ Lo común es tener un relay de correo, para que sea la unica maquina que puede e
 
 - ¿Cómo monto un servidor de correo?
 	**Se necesita el paquete postfix**.
-El primer 
+El primer paso es 
 - SE CONFIGURA EL SERVIDOR COMO SATELLYTE SYSTEM
 - SE CONFIGURA EL FICHERO /ETC/POSTFIX/MAIN.CF
 - EDITAR FICHERO /ETC/POSTFIX/SASL_PASSWORD
