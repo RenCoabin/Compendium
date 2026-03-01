@@ -18,7 +18,8 @@ Dame un mordisco que me pueda rematar
 
 Let's create a band
 In which we can write sad songs 'bout our exs
-We'll turn dramas into her Spoti
+We'll turn dramas into her Spotify home
+To dissappear then like Ram Di Dam
 
 Convertiré mis problemas en canciones
 Que nadie escuchará
