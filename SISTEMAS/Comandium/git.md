@@ -1,8 +1,8 @@
 - ¿Qué es git?
 git es un comando utilizado para gestionar versiones de código. Útil para guardar cambios, sincronizar repositorios y trabajar en equipo. 
 
-- ¿Para qué puede usarse?
-Este proyecto, por ejemplo, se lleva a cabo con ObsidianGit, un plugin de 
+- ¿Hay algún ejemplo de uso?
+Este proyecto, por ejemplo, se lleva a cabo con ObsidianGit, un plugin de Obsidian que hace exactamente lo mismo que Git, solo que desde el propio programa
 
 <hr>
 git status <!--Indica qué archivos han cambiado y/o se han añadido-->
