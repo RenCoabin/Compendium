@@ -1,5 +1,5 @@
 - ¿Qué es git?
-git es un comando utilizado para
+git es un comando utilizado para gestionar versiones de código. Útil para guardar cambio, sincronizar repositorios
 
 <hr>
 git status <!--Indica qué archivos han cambiado y/o se han añadido-->
