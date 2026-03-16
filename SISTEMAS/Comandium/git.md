@@ -2,7 +2,7 @@
 git es un comando utilizado para gestionar versiones de código. Útil para guardar cambios, sincronizar repositorios y trabajar en equipo. 
 
 - ¿Para qué puede usarse?
-Este proyecto, por ejemplo, se lleva a cab
+Este proyecto, por ejemplo, se lleva a cabo con ObsidianGit, un plugin de 
 
 <hr>
 git status <!--Indica qué archivos han cambiado y/o se han añadido-->
