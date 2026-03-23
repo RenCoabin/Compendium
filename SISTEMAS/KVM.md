@@ -50,7 +50,8 @@ Para empezar, la base de todo esto es, primero, conocer la IP de la máquina, pa
 <hr>
 *En consola.*
 
-El fichero debería, una vez editado, quedar de forma que pueda leerse en la primera línea 
+El fichero debería, una vez editado, quedar de forma que pueda leerse en la primera línea una dirección de loopback y "localhost", y en la segunda, la siguiente dirección, seguido del nombre "largo" de la máquina, seguido del nombre "corto".
 	V.g.
 		127.0.0.1 localhost  
 		127.0.1.1 absolut.rathole.lan absolut
+	
