@@ -40,3 +40,6 @@ Si no tiene unas líneas como <!--<dns enable='yes' />--> y <!-- <domain name='d
 *En consola.*
 
 Llegados a este punto, habría que editar en cada máquina el hostname.
+
+- ¿Cómo edito el nombre de la máquina?
+Para empezar, la base de todo esto es, primero, comocer la IP d
