@@ -44,7 +44,10 @@ Llegados a este punto, habría que editar en cada máquina el hostname.
 - ¿Cómo edito el nombre de la máquina?
 Para empezar, la base de todo esto es, primero, conocer la IP de la máquina, para después editar el fichero /etc/hosts
 <hr>
-`ip a` <!--para mostrar la dirección IP del -->
+`ip a` <!--para mostrar la dirección IP del adaptador-->
+
+`vim /etc/hosts` <!--para editar el fichero-->
 <hr>
 *En consola.*
 
+El fichero debería quedar de esta manera
