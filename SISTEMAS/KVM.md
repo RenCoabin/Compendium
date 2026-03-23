@@ -39,4 +39,4 @@ Si no tiene unas líneas como <!--<dns enable='yes' />--> y <!-- <domain name='d
 <hr>
 *En consola.*
 
-Llegado1
+Llegados a este punto, habría que editar en cada máquina el hostname.
