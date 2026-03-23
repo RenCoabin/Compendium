@@ -50,4 +50,6 @@ Para empezar, la base de todo esto es, primero, conocer la IP de la máquina, pa
 <hr>
 *En consola.*
 
-El fichero debería quedar de esta manera
+El fichero debería quedar de esta manera:
+	V.g.
+		
