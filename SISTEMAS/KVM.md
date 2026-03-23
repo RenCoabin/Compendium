@@ -54,6 +54,3 @@ El fichero debería, una vez editado, quedar de forma que pueda leerse en la pri
 	V.g.
 		127.0.0.1 localhost  
 		127.0.1.1 absolut.rathole.lan absolut
-	V.g.
-		127.0.0.1   localhost localhost.localdomain
-		192.168.122.129   bacardi.rathole.lan bacardi
