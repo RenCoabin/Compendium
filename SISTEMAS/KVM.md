@@ -42,9 +42,9 @@ Si no tiene unas líneas como <!--<dns enable='yes' />--> y <!-- <domain name='d
 Llegados a este punto, habría que editar en cada máquina el hostname.
 
 - ¿Cómo edito el nombre de la máquina?
-Para empezar, la base de todo esto es, primero, conocer la IP de la máquina, para después edi
+Para empezar, la base de todo esto es, primero, conocer la IP de la máquina, para después editar el fichero /etc/hosts
 <hr>
-`ip a
+`ip a` <!--para mostrar la dirección IP del -->
 <hr>
 *En consola.*
 
