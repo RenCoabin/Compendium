@@ -11,3 +11,6 @@
 		`FUN FACT: z, además, lo comprimiría`
 		`FUN FACT: t, además, lo comprueba (TEST)`
 		`FUN FACT: x desempaqueta`
+
+- ¿Cómo funciona la compresión de un fichero?
+Por lo general (y en ficheros grandes), hay mucho código, por tanto una herramienta de compresión intenta buscar patrones repe
