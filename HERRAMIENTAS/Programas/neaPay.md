@@ -6,4 +6,7 @@ Un ejemplo es, crear una cuenta para una prueba gratuita de un producto y cuando
 
 - ¿Cuál es la URL?
 La URL de neaPay es:
-	
+	https://neapay.com/online-tools/credit-card-number-generator-validator.html
+
+### !!!Precaución
+A veces puede no funcionar porque algunas empresas validan la tarjeta haciendo un pequeño gasato 
