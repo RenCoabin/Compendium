@@ -1,1 +1,1 @@
-Hace unos días mis compañeros se estuvieron chuleando de sus ventoy como si fuesen trompos o chapad
+Hace unos días mis compañeros se estuvieron chuleando de sus ventoy como si fuesen trompos o chapas en un patio de colegio, como yo no sabía ni que existía quedé alucinado. Ahora que tengo tiempo y estoy esperando a que me llegue un kit de destornilladores para otro proyecto
