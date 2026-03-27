@@ -9,4 +9,4 @@ La URL de neaPay es:
 	https://neapay.com/online-tools/credit-card-number-generator-validator.html
 
 ### !!!Precaución
-A veces puede no funcionar porque algunas empresas validan la tarjeta haciendo un pequeño gasato 
+A veces puede no funcionar porque algunas empresas validan la tarjeta haciendo un pequeño gasto que después reintegran para verificar la existencia.
