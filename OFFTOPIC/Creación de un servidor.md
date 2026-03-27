@@ -1,2 +1,2 @@
 - ¿Qué es esto?
-Estoy creando un servidor con un portátil viejo (más o menos del 2008) que tenía por ahí tirado para aprovecharlo
+Estoy creando un servidor con un portátil viejo (más o menos del 2008) que tenía por ahí tirado para aprovecharlo y seguir aprendiendo nuevas cosicas. Como curiosidad este portátil lo llevé en mi primer año de ASIR porque no tenía dinero y necesit
