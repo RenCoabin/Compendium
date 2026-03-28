@@ -26,4 +26,4 @@ lspci -nnk | grep -iA 3 net
 <hr>
 *En consola*
 
-Esto busca
+Esto filtra en lspci líneas que contengan "net", e investigando me entero de rollos que hay con drivers de 
