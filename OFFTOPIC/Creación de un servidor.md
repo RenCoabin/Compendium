@@ -8,4 +8,8 @@ Como curiosidad este portátil lo llevé en mi primer año de ASIR porque no ten
 Todo el mundo ha instalado un sistema operativo alguna vez, es muy poco probable que alguien empiece a montar un servidor sin haber instalado un linux en su workstation, así que no hay excusa alguna para ponerme a explicar esto.
 
 # Primer problema
-Es un portátil antiguo, demasiado. SIEMPRE ha tenido movida con la tarjeta de red: el adaptador wifi no funciona ni aparece. Así que una vez conectado el cable UTP, me pongo manos a la obra instalando paquetes
+Es un portátil antiguo, demasiado. SIEMPRE ha tenido movida con la tarjeta de red: el adaptador wifi no funciona ni aparece. Así que una vez conectado el cable UTP, me pongo manos a la obra instalando paquetes.
+
+<hr>
+apt install vim neovim neofetch tree network-manager
+<!--cosas con las que suelo trabajar y las voy 
