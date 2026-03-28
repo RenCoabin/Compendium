@@ -34,4 +34,7 @@ Es un clásico de los portátiles viejos. El problema es que el driver que usa (
 <hr>
 *Gemini.*
 
-Así que me toca 
+Así que me toca instalar el paquete "firmware-b43-lpphy-installer" y cargar el módulo del kernel.
+
+<hr>
+modprobe -r b
