@@ -45,4 +45,4 @@ modprobe b43
 Ahora sí, me lo puedo quitar de encima con nmtui. Y YA TENGO LISTO EL TEMA DEL WI-FI.
 
 # Cableado
-Tengo clara una 
+Tengo clara una cosa, y es que, salvo que esté muy deprimido, NO QUIERO TENER EL CUARTO C
