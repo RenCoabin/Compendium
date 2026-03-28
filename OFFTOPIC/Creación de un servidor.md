@@ -16,4 +16,7 @@ apt install vim neovim neofetch tree network-manager
 
 systemctl start NetworkManager
 systemctl enable NetworkManager <!--para poder usar "nmtui"-->
-<
+<hr>
+*En consola.*
+
+Mi primer problema con esto, es que efectivamente el adaptador de red wi-fi aparentemente no existe, así que me toca instalar el paquete "pciutils"
