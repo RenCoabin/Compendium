@@ -37,4 +37,12 @@ Es un clásico de los portátiles viejos. El problema es que el driver que usa (
 Así que me toca instalar el paquete "firmware-b43-lpphy-installer" y cargar el módulo del kernel.
 
 <hr>
-modprobe -r b
+modprobe -r b43
+modprobe b43
+<hr>
+*En consola.*
+
+Ahora sí, me lo puedo quitar de encima con nmtui. Y YA TENGO LISTO EL TEMA DEL WI-FI.
+
+# Cableado
+Tengo clara una 
