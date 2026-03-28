@@ -5,4 +5,7 @@ Como curiosidad este portátil lo llevé en mi primer año de ASIR porque no ten
 
 ## Instalación del SO
  - La parte más sencilla
-Todo el mundo ha instalado un sistema operativo alguna vez, es muy poco probable que alguien empiece a montar un servidor sin haber instalado un linux en su workstation, así que no hay excusa alguna para ponerme a explicar esto. 
+Todo el mundo ha instalado un sistema operativo alguna vez, es muy poco probable que alguien empiece a montar un servidor sin haber instalado un linux en su workstation, así que no hay excusa alguna para ponerme a explicar esto.
+
+# Primer problema
+Es un portátil antiguo, demasiado. SIEMPRE ha tenido movida con la tarjeta de red: el adaptador wifi no funciona ni aparece.
