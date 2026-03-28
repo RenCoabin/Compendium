@@ -5,4 +5,4 @@ Como curiosidad este portátil lo llevé en mi primer año de ASIR porque no ten
 
 ## Instalación del SO
  - La parte más sencilla
-Todo el mundo ha instalado un sistema operativo alguna vez, así que no hay excusa alguna para ponerme a explicar 
+Todo el mundo ha instalado un sistema operativo alguna vez, es muy poco probable que alguien empiece a montar un servidor sin haber instalado un linux en su workstation, así que no hay excusa alguna para ponerme a explicar esto. 
