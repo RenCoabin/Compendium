@@ -26,4 +26,12 @@ lspci -nnk | grep -iA 3 net
 <hr>
 *En consola*
 
-Esto filtra en lspci líneas que contengan "net", e investigando me entero de rollos que hay con drivers "b43". Te dejo a
+Esto filtra en lspci líneas que contengan "net", e investigando me entero de rollos que hay con drivers "b43". Te dejo aquí el chorizaco:
+
+<hr>
+¡Bingo! Tenemos al culpable: la **Broadcom BCM4312**.
+Es un clásico de los portátiles viejos. El problema es que el driver que usa (llamado `b43`) requiere un **firmware** que, por cuestiones de licencia, no se incluye en la instalación estándar de Ubuntu. Sin ese firmware, la tarjeta está "sorda" y por eso `nmtui` dice que el hardware no está.
+<hr>
+*Gemini.*
+
+Así que me toca 
