@@ -58,3 +58,4 @@ systemctl restart systemd-logind
 <hr>
 *En consola.*
 
+Y ya está. Si la broma es seria y va para largo, recomiendo encarecidamente tirar esta joya de comando "`setterm --term linux --blank 1`", que al minuto de inactividad apaga la pantalla, así e
