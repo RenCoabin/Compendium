@@ -12,4 +12,8 @@ Es un portátil antiguo, demasiado. SIEMPRE ha tenido movida con la tarjeta de r
 
 <hr>
 apt install vim neovim neofetch tree network-manager
-<!--cosas con las que suelo trabajar y las voy 
+<!--cosas con las que suelo trabajar y las voy a necesitar sí o sí-->
+
+systemctl start NetworkManager
+systemctl enable NetworkManager <!--para poder usar "nmtui"-->
+<
