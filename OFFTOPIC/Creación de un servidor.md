@@ -45,4 +45,7 @@ modprobe b43
 Ahora sí, me lo puedo quitar de encima con nmtui. Y YA TENGO LISTO EL TEMA DEL WI-FI.
 
 # Cableado
-Tengo clara una cosa, y es que, salvo que esté muy deprimido, NO QUIERO TENER 50 GADGETS EN MEDIO DE MI CUARTO. Por eso mismo con un portátil 
+Tengo clara una cosa, y es que, salvo que esté muy deprimido, NO QUIERO TENER 50 GADGETS EN MEDIO DE MI CUARTO. Por eso mismo con un portátil abierto en un rincón no voy a ningún lado, así que tras informarme un poco:
+
+<hr>
+vim /etc/systemd/
