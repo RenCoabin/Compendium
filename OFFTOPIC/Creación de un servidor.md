@@ -53,3 +53,8 @@ vim /etc/systemd/logind.conf
 	HandleLidSwitch=ignore
 	HandleLidSwitchExternalPower=ignore
 	HandleLidSwitchDocked=ignore
+
+systemctl restart systemd-logind
+<hr>
+*En consola.*
+
