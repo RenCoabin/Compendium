@@ -84,5 +84,9 @@ dhcpd -t <!--comando en caso de error-->
 
 En este momento hay 2 DHCP activos: el que he montado y el que está activado en el router, así que toca ir al panel de administración y tirarlo.
 
-Quiero que el servidor tenga una I
+Quiero que el servidor tenga una IP fija para poder conectarme por ssh desde cualquier lado (si cambia la ip, no voy a saber a donde conectarme), así que:
+
+<hr>
+vim /etc/
+<hr>
 TEMP: 00:1d:72:d9:37:d1
