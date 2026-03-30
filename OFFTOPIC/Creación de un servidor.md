@@ -64,5 +64,7 @@ Y ya está. Si la broma es seria y va para largo, recomiendo encarecidamente tir
 Quiero un DHCP para asignar las IP, DNS (que luego se monta) y el dominio que voy a montar en la red.
 
 <hr>
+apt install isc-dhcp-server <!--el servidor dhcp-->
 
-<hr
+
+<hr>
