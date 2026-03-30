@@ -91,7 +91,8 @@ vim /etc/dhcp/dhcpd.conf
 
 `host fantasia {
 	`hardware ethernet *DIRECCIÓN MAC SERVIDOR*
-	fixe
-}
+	`fixed-address *IP QUE QUIERA ASIGNAR*
+`}
 <hr>
-TEMP: 00:1d:72:d9:37:d1
+*En consola.*
+
