@@ -81,4 +81,5 @@ dhcpd -t <!--comando en caso de error-->
 <hr>
 *En consola.*
 
-En este momento hay 2 DHCP activos: el que he montado y el que está activado en el router, así que toca 
+En este momento hay 2 DHCP activos: el que he montado y el que está activado en el router, así que toca ir al panel de administración y tirarlo.
+
