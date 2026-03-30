@@ -71,5 +71,8 @@ option domain-name rathole.lan;
 option domain-name-servers 1.1.1.1;
 <!--he sustituido estas dos líneas por el dominio local (de mi casa) y el DNS de cloudflare (placeholder)-->
 
-
+subnet 192.168.1.0 netmask 255.255.255.0 {  
+range 192.168.1.100 192.168.1.200;
+}
+<!--he especificado las direcciones que quiero que se repartan I-->
 <hr>
