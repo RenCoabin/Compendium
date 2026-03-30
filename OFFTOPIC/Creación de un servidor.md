@@ -101,4 +101,4 @@ Como servidor DNS instalaré AdGuard Home (porque así me quito de encima anunci
 
 Al terminar la instalación y lanzar el ejecutable, se ve que no resuelve ningún dominio. La solución a esto es cambiar el placeholder introducido en /etc/dhcp/dhcpd.conf y cambiarlo por la IP de la máquina en la que se ha instalado el AdGuard.
 
-He to
+He 
