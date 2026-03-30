@@ -69,6 +69,7 @@ apt install isc-dhcp-server <!--el servidor dhcp-->
 vim /etc/dhcp/dhcpd.conf <!--archivo de configuracion-->
 option domain-name "rathole.lan";  
 option domain-name-servers 1.1.1.1;
+option routers 192.168.1.1; <!-- gateway (ip router)-->
 <!--he sustituido estas dos líneas por el dominio local (de mi casa) y el DNS de cloudflare (placeholder)-->
 
 subnet 192.168.1.0 netmask 255.255.255.0 {  
