@@ -97,5 +97,5 @@ vim /etc/dhcp/dhcpd.conf
 *En consola.*
 
 # DNS
-Como servidor DNS instalaré Adguard (porque así me quito de encima anuncios e historias). Para instalarlo está el tutorial en https://adguard.com/es/adguard-linux/overview.html#instructions (RTFM)
+Como servidor DNS instalaré Adguard (porque así me quito de encima anuncios e historias). Para instalarlo está el tutorial en https://adguard-dns.io/kb/es/adguard-home/getting-started/ (RTFM)
 
