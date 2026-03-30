@@ -96,3 +96,5 @@ vim /etc/dhcp/dhcpd.conf
 <hr>
 *En consola.*
 
+# DNS
+Como servidor DNS instalaré Ad
