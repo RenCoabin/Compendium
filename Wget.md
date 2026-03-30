@@ -5,4 +5,6 @@ Wget es un comando utilizado para descargar archivos de servidores http (o https
 Para descargar, por ejemplo, un archivo de estos apuntes:
 
 <hr>
-wget 
+wget https://github.com/RenCoabin/Compendium/blob/main/SISTEMAS/Comandium/Bienvenido.md
+<hr>
+*En consola.*
