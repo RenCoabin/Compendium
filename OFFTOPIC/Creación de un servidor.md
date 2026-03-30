@@ -67,5 +67,7 @@ Quiero un DHCP para asignar las IP, DNS (que luego se monta) y el dominio que vo
 apt install isc-dhcp-server <!--el servidor dhcp-->
 
 vim /etc/dhcp/dhcpd.conf <!--archivo de configuracion-->
-
+option domain-name rathole.lan;  
+option domain-name-servers 1.1.1.1;
+<!
 <hr>
