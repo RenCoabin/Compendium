@@ -74,5 +74,9 @@ option domain-name-servers 1.1.1.1;
 subnet 192.168.1.0 netmask 255.255.255.0 {  
 range 192.168.1.100 192.168.1.200;
 }
-<!--he especificado las direcciones que quiero que se repartan I-->
+<!--he especificado las direcciones que quiero que se repartan IMPORTANTE-->
+systemctl restart isc-dhcp-server
+
+dhcpd -t <!--comando en caso de error-->
 <hr>
+*En conso*
