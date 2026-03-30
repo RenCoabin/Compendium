@@ -87,6 +87,11 @@ En este momento hay 2 DHCP activos: el que he montado y el que está activado en
 Quiero que el servidor tenga una IP fija para poder conectarme por ssh desde cualquier lado (si cambia la ip, no voy a saber a donde conectarme), así que:
 
 <hr>
-vim /etc/
+vim /etc/dhcp/dhcpd.conf
+
+`host fantasia {
+	`hardware ethernet *DIRECCIÓN MAC SERVIDOR*
+	fixe
+}
 <hr>
 TEMP: 00:1d:72:d9:37:d1
