@@ -97,4 +97,5 @@ vim /etc/dhcp/dhcpd.conf
 *En consola.*
 
 # DNS
-Como servidor DNS instalaré Ad
+Como servidor DNS instalaré Adguard (porque así me quito de encima anuncios e historias).
+
