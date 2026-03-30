@@ -99,4 +99,4 @@ vim /etc/dhcp/dhcpd.conf
 # DNS
 Como servidor DNS instalaré Adguard Home (porque así me quito de encima anuncios e historias). Para instalarlo está el tutorial en https://adguard-dns.io/kb/es/adguard-home/getting-started/ (RTFM)
 
-<hr>
+Al terminar la instalación y lanzar el ejecutable, se ve que no resuelve ningún dominio. La solución a esto es 
