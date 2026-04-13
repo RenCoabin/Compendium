@@ -16,5 +16,6 @@ Un **comando** que permite buscar archivos dentro de la estructura del sistema d
 			**-size** puede usarse:
 				"K", que significa 1kB (1024 bytes), con un + o un - delante
 				"-empty", en sustitución de "-size 0"
-			**-atime**, **-mtime** y **-ctime** 
+			**-atime** busca la fecha del último acceso.
+			**-mtime**  y **-ctime** 
 CONTINUAR EN PAGINA 168 DE LINUX DOMINAR LA ADMINISTRACION DEL SISTEMA
