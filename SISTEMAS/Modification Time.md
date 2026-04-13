@@ -1,2 +1,2 @@
 - ¿Qué es **Modification Time**?
-Modification Time hace referencia al comando [[Find]]
+Modification Time hace referencia al comando [[Find]] como **mtime**.
