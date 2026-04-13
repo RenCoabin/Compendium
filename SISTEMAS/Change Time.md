@@ -1,2 +1,4 @@
 - ¿Qué es **Change Time**?
-Change Time hace referencia al comando [[Find]]
+Change Time hace referencia al comando [[Find]] como **ctime**.
+
+- ¿Cuando cambia?
