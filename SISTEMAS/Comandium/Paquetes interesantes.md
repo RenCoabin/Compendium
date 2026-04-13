@@ -9,7 +9,7 @@
 - neovim
 - fastfetch
 - btop
-- docker
+- docker ([[Docker]])
 - docker-compose
 - kvm (`qemu-kvm`, `libvirt-daemon-system`, `libvirt-clients`, `virt-manager`.)
 - mailutils (servidor de correo)
