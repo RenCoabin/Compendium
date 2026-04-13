@@ -1,2 +1,2 @@
-- ¿Qué es **Access Time**?
-Access Time hace referencia al comando [[Find]]
+- ¿Qué es **Modification Time**?
+Modification Time hace referencia al comando [[Find]]
