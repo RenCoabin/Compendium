@@ -18,5 +18,5 @@ Un **comando** que permite buscar archivos dentro de la estructura del sistema d
 				"-empty", en sustitución de "-size 0"
 			**-atime** busca la fecha del último acceso ([[Access Time]]), por ejemplo la lectura de este fichero o incluso listarlo de manera específica.
 			**-mtime** busca [[Modification Time]].
-			**-ctime** busca la fecha de modificación [[]]
+			**-ctime** busca [[Change Time]]
 CONTINUAR EN PAGINA 168 DE LINUX DOMINAR LA ADMINISTRACION DEL SISTEMA
