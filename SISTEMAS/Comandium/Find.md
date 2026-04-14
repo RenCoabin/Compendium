@@ -20,5 +20,7 @@ Un **comando** que permite buscar archivos dentro de la estructura del sistema d
 			**-mtime** busca [[Modification Time]].
 			**-ctime** busca [[Change Time]]
 			**-exec** es la más interesante, permite realizar un comando que afecta a los ficheros que devuelve la salida.
-				V.g. `find . -type f -name "*.mp3" -exec rm -f {} \
+				V.g. `find . -type f -name "*.mp3" -exec rm -f {} \;´
+### !!!Nota
+El sistema no espera la finalización del comando *find* para ejecutar el comando *rm*; lo ejecuta en cuanto **
 CONTINUAR EN PAGINA 168 DE LINUX DOMINAR LA ADMINISTRACION DEL SISTEMA
