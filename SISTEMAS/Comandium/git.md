@@ -12,3 +12,5 @@ git commit -m "mensaje" <!--Cierra esa "caja" y le pone un nombre-->
 git push <!--Envía esa "caja" al repositorio-->
 <hr>
 *En consola.*
+
+WIP
