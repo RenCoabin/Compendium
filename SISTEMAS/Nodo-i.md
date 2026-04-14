@@ -1,2 +1,3 @@
 placeholder
-- ¿Qué es un ?
+- ¿Qué es un Nodo-i?
+Un **nodo-i** es
