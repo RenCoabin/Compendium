@@ -19,4 +19,5 @@ Un **comando** que permite buscar archivos dentro de la estructura del sistema d
 			**-atime** busca la fecha del último acceso ([[Access Time]]), por ejemplo la lectura de este fichero o incluso listarlo de manera específica.
 			**-mtime** busca [[Modification Time]].
 			**-ctime** busca [[Change Time]]
+			**-exec** es la más interesante, permite realizar un comando que afecta a los ficheros que devuelve la salida
 CONTINUAR EN PAGINA 168 DE LINUX DOMINAR LA ADMINISTRACION DEL SISTEMA
