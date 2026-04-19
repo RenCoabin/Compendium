@@ -3,4 +3,4 @@ SQL es un lenguaje de consulta y tratamiento de bases de datos, que puede descom
 	DDL (que define los datos)
 	DML (que permite manipularlos)
 	DCL (controla el acceso a estos)
-	
+	TCL (que gestiona las transacciones)
