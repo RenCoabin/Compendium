@@ -1,2 +1,3 @@
 - ¿Qué es **SQL**?
-SQL ()
+SQL es un lenguaje de consulta y tratamiento de bases de datos, que puede descomponerse en cuatro funciones:
+	DML 
