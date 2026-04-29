@@ -3,4 +3,6 @@ Esto quiere decir que todo es tratado como si fuera un archivo. Los directorios,
 
 - ¿Qué **tipos** diferentes hay?
 Los ficheros en Linux pueden ser:
-	Archivos normales, como, por ejemplo,
+	*Archivos normales*, como, por ejemplo, un fichero binario, una imagen, o estos mismos apuntes.
+	*Directorios*, como
+	*Dispositivos*, como un disco 
