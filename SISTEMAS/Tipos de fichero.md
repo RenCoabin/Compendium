@@ -1,2 +1,2 @@
-- En Linux **todo es un fichero**.
-Esto quiere decir
+- En Linux **todo son ficheros**.
+Esto quiere decir que todo es tratado com
