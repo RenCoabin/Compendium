@@ -1,2 +1,4 @@
 - En Linux **todo son ficheros**.
-Esto quiere decir que todo es tratado com
+Esto quiere decir que todo es tratado como si fuera un archivo. Los directorios, por ejemplo, son ficheros que hacen referencia a los otros ficheros que este directorio "contiene".
+
+- 
