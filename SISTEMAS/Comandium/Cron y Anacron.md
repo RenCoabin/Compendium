@@ -12,4 +12,4 @@ El formato del fichero **crontab** es:
 
 
 #### !!!Atención: 
-El día de la semana puede verse como mon, tue.......sun o como 0,1,2,3....6, siendo DOMINGO el PRIMERO
+El día de la semana puede verse como mon, tue.......sun o como 0,1,2,3....6, siendo DOMINGO el PRIMERO 

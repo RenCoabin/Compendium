@@ -3,7 +3,7 @@ Ninite es una herramienta web muy útil para postinstalaciones que permite insta
 
 - ¿Qué programas puedo instalar?
 Lo más indicado es echar un vistazo a la web, pero te adelanto que puedes instalar los navegadores más usados, qBittorrent, WinRAR, PuTTY, Spotify, LibreOffice, Steam e incluso Visual Studio, entre otras.
-En definitiva, merece la pena echarle un ojo tras la instalación de una máquina.
+En definitiva, merece la pena echarle un ojo tras la instalación de una máquina. 
 
 - ¿Cuál es la URL?
 La URL DE Ninite es:
