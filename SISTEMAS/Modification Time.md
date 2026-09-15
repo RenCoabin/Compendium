@@ -1,5 +1,5 @@
 - ¿Qué es **Modification Time**?
-Modification Time hace referencia al comando [[Find]] como **mtime**.
+Modification Time hace referencia al comando [[Find]] como **mtime**. 
 
 - ¿Cuando cambia?
 Se actualiza cuando cambias lo que hay dentro de un fichero (texto, datos, tamaño, etc)
