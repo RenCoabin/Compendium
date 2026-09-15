@@ -1,2 +1,2 @@
 - ¿Qué es **BaseX**?
-BaseX es un
+BaseX es un 
