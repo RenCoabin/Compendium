@@ -1,4 +1,4 @@
-- ¿Qué es un servidor de correo? 
+- ¿Qué es un servidor de correo?
 
 Lo común es tener un relay de correo, para que sea la unica maquina que puede enviar correos.
 

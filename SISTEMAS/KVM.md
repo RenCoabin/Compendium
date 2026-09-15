@@ -1,4 +1,4 @@
-- ¿Qué es KVM? 
+- ¿Qué es KVM?
 **KVM** es un hipervisor potentísimo y a mi parecer más sencillo que, por ejemplo, VirtualBox, ya que para abrir una máquina virtual tienes que:
 	**1. Arrancar la máquina
 	2. Abrir la ventana emergente**
