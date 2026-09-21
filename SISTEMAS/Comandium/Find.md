@@ -24,4 +24,4 @@ Un **comando** que permite buscar archivos dentro de la estructura del sistema d
 ### !!!Nota
 El sistema no espera la finalización del comando *find* para ejecutar el comando *rm*; lo ejecuta en cuanto *find* encuentra un archivo, es por eso que el comando espera un **;** al final de este.
 
-CONTINUAR EN PAGINA 168 DE LINUX DOMINAR LA ADMINISTRACION DEL SISTEMA
+WIP CONTINUAR EN PAGINA 168 DE LINUX DOMINAR LA ADMINISTRACION DEL SISTEMA
