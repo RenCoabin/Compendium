@@ -1,2 +1,2 @@
 - ¿Qué es Obsidian?
-Ob1
+Obsidian es un editor de 
