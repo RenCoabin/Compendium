@@ -1,2 +1,2 @@
 - ¿Qué es Obsidian?
-Obsidian es un editor de texto y
+Obsidian es un editor de texto que trabaja sobre una arqui
