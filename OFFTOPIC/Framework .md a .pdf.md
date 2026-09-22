@@ -1,2 +1,2 @@
 - ¿Por qué?
-Preciso de una herramienta cómoda y rápida para convertir mi documentación de tareas de clase en formato entregable. 
+Preciso de una herramienta cómoda y rápida para convertir mi documentación de tareas de clase en formato entregable. Es cierto que el propio Obsidian me 
