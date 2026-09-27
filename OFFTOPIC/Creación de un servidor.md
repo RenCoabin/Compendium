@@ -104,4 +104,4 @@ Al terminar la instalación y lanzar el ejecutable, se ve que no resuelve ningú
 He modificado las "Reglas de filtrado personalizado" como si fuese un /etc/hosts.
 
 # VPN
-NECESITO montar una VPN para poder trabajar fuera de casa, y pienso utilizar wireguard, para ello, primero hay que instalar el paquete `wireguard` en la 
+NECESITO montar una VPN para poder trabajar fuera de casa, y pienso utilizar wireguard, para ello, primero hay que instalar el paquete `wireguard` en el servidor y después
