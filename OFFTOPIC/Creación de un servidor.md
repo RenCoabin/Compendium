@@ -102,3 +102,6 @@ Como servidor DNS instalaré AdGuard Home (porque así me quito de encima anunci
 Al terminar la instalación y lanzar el ejecutable, se ve que no resuelve ningún dominio. La solución a esto es cambiar el placeholder introducido en /etc/dhcp/dhcpd.conf y cambiarlo por la IP de la máquina en la que se ha instalado el AdGuard.
 
 He modificado las "Reglas de filtrado personalizado" como si fuese un /etc/hosts.
+
+# VPN
+NECESITO montar una VPN para poder trabajar fuera de casa, y pienso utilizar wireguard, para ello, primero hay que instalar el paquete `wireguard` en la 
