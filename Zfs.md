@@ -7,4 +7,6 @@ crearlo en home.
 crear instantánea
 	zfs snaphot
 	para listar:
-		zfs
+		zfs list -t snapshot
+			V.g.
+			zfs snapshot tank/home/ASIR@mi-snap-$(date +%F +%H +%M +%S)
