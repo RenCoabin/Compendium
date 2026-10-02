@@ -1,2 +1,6 @@
 crear un sistema de ficheros:
-	zfs create 
+	zfs create tank
+
+crearlo en home.
+	zfs create -o mountpoint=/home tank/home
+
