@@ -10,3 +10,9 @@ crear instantánea
 		zfs list -t snapshot
 			V.g.
 			zfs snapshot tank/home/ASIR@mi-snap-$(date +%F +%H +%M +%S)
+
+cargarse snapshot:
+	zfs destroy ficherosnap
+
+rollback:
+	zfs rollback fichero
