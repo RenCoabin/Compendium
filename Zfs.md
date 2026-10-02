@@ -15,4 +15,5 @@ cargarse snapshot:
 	zfs destroy ficherosnap
 
 rollback:
-	zfs rollback fichero
+	zfs rollback ficherosnap
+
